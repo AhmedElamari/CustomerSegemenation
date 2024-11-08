@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CustomerSegement Behaviour", "CustomerSegement Behaviour\CustomerSegement Behaviour.pyproj", "{592DFD55-342F-4FDA-AF1B-E93B847AE8B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{592DFD55-342F-4FDA-AF1B-E93B847AE8B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592DFD55-342F-4FDA-AF1B-E93B847AE8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F585E5FC-335D-4968-AC7B-4BB94BE11AE0}
+	EndGlobalSection
+EndGlobal
